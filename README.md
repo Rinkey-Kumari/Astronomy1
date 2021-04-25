@@ -13,3 +13,5 @@ Learn more about how to access all type of data from given Uri
 Have to learn more kotlin & its features since i have very basec knowladge of kotlin.
 
 Learn many things so that i'll able to create a good app.
+
+There are many things have to learn.
