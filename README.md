@@ -3,8 +3,15 @@
 This program is in Java. Since I don't have much knowladge about Kotlin.
 It will show the astronomy of a day & user can search a day to check previous day datails.
 
+
 It required internet.
 
+ To see daily or different dates astronomy added by NASA in NASA API , Follow below steps
+Steps :-
+1. click on "image" on the home screen
+2. It will show daily details
+3. CLick on Search menu & we can see other details of other day also
+4. click on image icon to again go to daily details.
 
 Improvement areas:-
 
